@@ -1,8 +1,7 @@
 # Find Pockets Algorithm
 Repository for the SBI/Python project.
 
-![image](https://github.com/user-attachments/assets/cb99cf45-d5ed-4b92-85ec-7d17d032e7c1)
-
+<img src="https://github.com/user-attachments/assets/cb99cf45-d5ed-4b92-85ec-7d17d032e7c1" width="400">
 
 ## Description
 Ligand-binding site prediction tool based on a geometric approach. For a more detailed description of the algorithm, usage and output of the program check the report.
