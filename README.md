@@ -9,7 +9,7 @@ Ligand-binding site prediction tool based on a geometric approach. For a more de
 
 ## Usage
 ``
-python find_pockets.py path/to/pdb_file.pdb
+python find_pockets.py <pdb_file> [output_directory]
 ``
 
 ## Advanced Options
