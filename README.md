@@ -22,4 +22,4 @@ output_dir="./output"
 voxel_size=0.4, # Higher resolution (slower)
 MIN_PSP=2, # Lower threshold for noisy data
 probe_radius=1.2 # Smaller solvent probe
-) ```
+)
